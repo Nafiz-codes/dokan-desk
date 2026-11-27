@@ -1,0 +1,5 @@
+[
+  { "phone": "01712345678", "name": "Rakib Hasan", "address": "House 12, Road 5, Block C, Mirpur 10, Dhaka", "area": "Mirpur", "orders": 4, "returned": 0 },
+  { "phone": "01898765432", "name": "Nusrat Jahan", "address": "Flat 3B, 27 Satmasjid Road, Dhanmondi, Dhaka", "area": "Dhanmondi", "orders": 7, "returned": 0 },
+  { "phone": "01555000111", "name": "Tanvir Ahmed", "address": "Agrabad C/A, Chattogram", "area": "Chattogram", "orders": 2, "returned": 1 }
+]

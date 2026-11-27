@@ -1,0 +1,9 @@
+[
+  { "id": "TS-BAS", "name": "Basic Cotton T-shirt", "bn": "বেসিক টি-শার্ট", "price": 450, "colors": ["blue", "black", "white", "maroon"], "sizes": ["S", "M", "L", "XL"], "stock": 64 },
+  { "id": "PL-POLO", "name": "Premium Polo Shirt", "bn": "পোলো শার্ট", "price": 850, "colors": ["navy", "white", "green"], "sizes": ["M", "L", "XL"], "stock": 22 },
+  { "id": "PJ-PANJ", "name": "Eid Panjabi (Cotton)", "bn": "পাঞ্জাবি", "price": 1850, "colors": ["white", "cream", "olive"], "sizes": ["38", "40", "42", "44"], "stock": 18 },
+  { "id": "SR-JAM", "name": "Jamdani Saree", "bn": "জামদানি শাড়ি", "price": 6500, "colors": ["red", "green", "off-white"], "sizes": ["Free"], "stock": 6 },
+  { "id": "TP-3PC", "name": "Three-piece (Lawn)", "bn": "থ্রি-পিস", "price": 1650, "colors": ["pink", "sky", "peach"], "sizes": ["M", "L", "XL"], "stock": 30 },
+  { "id": "HJ-HIJ", "name": "Georgette Hijab", "bn": "হিজাব", "price": 350, "colors": ["black", "beige", "grey"], "sizes": ["Free"], "stock": 80 },
+  { "id": "SN-SNK", "name": "Canvas Sneakers", "bn": "স্নিকার্স", "price": 1450, "colors": ["white", "black"], "sizes": ["40", "41", "42", "43"], "stock": 15 }
+]

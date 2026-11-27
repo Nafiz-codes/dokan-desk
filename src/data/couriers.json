@@ -1,0 +1,5 @@
+[
+  { "id": "pathao", "name": "Pathao Courier", "color": "#e3262b", "insideDhaka": 70, "outsideDhaka": 130, "etaInside": "24 hrs", "etaOutside": "48–72 hrs", "codCharge": 0.01 },
+  { "id": "steadfast", "name": "Steadfast", "color": "#0e7a5f", "insideDhaka": 60, "outsideDhaka": 120, "etaInside": "24–48 hrs", "etaOutside": "2–3 days", "codCharge": 0.01 },
+  { "id": "redx", "name": "RedX", "color": "#c8102e", "insideDhaka": 65, "outsideDhaka": 125, "etaInside": "Same day*", "etaOutside": "2–4 days", "codCharge": 0.01 }
+]
